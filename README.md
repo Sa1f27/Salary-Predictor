@@ -31,16 +31,6 @@ This project predicts salaries using a Linear Regression model. It includes:
    streamlit run app.py
    ```
 
-## Usage
-
-1. Run the Streamlit app:
-
-   ```
-   streamlit run app.py
-   ```
-
-2. Enter years of experience to predict the salary.
-
 ## Technologies Used
 
 - **Python**
